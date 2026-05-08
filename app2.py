@@ -74,7 +74,7 @@ def download_excel(dataframe, filename):
 # =========================================================
 # TITLE
 # =========================================================
-st.title("📊 Biomedical Equipment Analysis Dashboard")
+st.title("📊 RR Analysis Dashboard")
 
 st.markdown("""
 ### Upload Any Biomedical Equipment Excel File
