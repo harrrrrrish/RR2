@@ -80,15 +80,14 @@ st.markdown("""
 ### Upload Any Biomedical Equipment Excel File
 
 Supported:
-- CT
-- MRI
+- Radiology
+- SAG
 - Ventilator
-- X-Ray
-- ECG
+- Anesthesia
+- SHIPL
 - Patient Monitor
-- Ultrasound
+- Injector
 - Infusion Pump
-- Any Biomedical RR Analysis File
 """)
 
 # =========================================================
