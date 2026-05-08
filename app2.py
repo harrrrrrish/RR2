@@ -8,7 +8,7 @@ from io import BytesIO
 # PAGE CONFIG
 # =========================================================
 st.set_page_config(
-    page_title="Biomedical Equipment Analysis Dashboard",
+    page_title="RR Analysis Dashboard",
     page_icon="📊",
     layout="wide"
 )
@@ -87,7 +87,6 @@ Supported:
 - SHIPL
 - Patient Monitor
 - Injector
-- Infusion Pump
 """)
 
 # =========================================================
