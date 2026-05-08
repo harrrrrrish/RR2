@@ -77,7 +77,7 @@ def download_excel(dataframe, filename):
 st.title("📊 RR Analysis Dashboard")
 
 st.markdown("""
-### Upload Any Biomedical Equipment Excel File
+### Upload RR Report Excel File
 
 Supported:
 - Radiology
